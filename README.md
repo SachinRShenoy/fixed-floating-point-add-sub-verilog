@@ -50,9 +50,6 @@ The project demonstrates:
 │   ├── Fixed_floating.qpf
 │   └── Fixed_floating.qsf
 │
-├── docs/
-│   └── HDL_Report.pdf
-│
 └── README.md
 ```
 ---
