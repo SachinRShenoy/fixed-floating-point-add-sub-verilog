@@ -8,6 +8,8 @@ The project demonstrates:
 - Floating-point addition and subtraction
 - FPGA-based output visualisation using 7-segment displays
 
+The design is fully combinational and does not rely on a system clock. Therefore, timing constraints were not applied, and Quartus reports unconstrained paths. This is acceptable for the intended functionality and FPGA demonstration.
+
 ---
 
 ## 🔧 Features
